@@ -7,7 +7,7 @@ Experienced software engineer specializing in modern web development, artificial
 ### 🛠️ Technologies & Expertise
 
 - **Frontend**: React, JavaScript/TypeScript, Modern Web Frameworks
-- **Backend**: Python, Golang, RESTful APIs, Microservices
+- **Backend**: Python, Django, Golang, RESTful APIs, Microservices
 - **AI/ML**: Machine Learning, Deep Learning, AI Integration
 - **Tools**: Git, Docker, CI/CD, Cloud Platforms
 
