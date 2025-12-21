@@ -1,16 +1,24 @@
-## Hi there 👋
+# Devan Cormick
 
-<!--
-**devancormick/devancormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Engineer
 
-Here are some ideas to get you started:
+Experienced software engineer specializing in modern web development, artificial intelligence, and high-performance systems. Passionate about building scalable solutions across multiple technology stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Expertise
+
+- **Frontend**: React, JavaScript/TypeScript, Modern Web Frameworks
+- **Backend**: Python, Golang, RESTful APIs, Microservices
+- **AI/ML**: Machine Learning, Deep Learning, AI Integration
+- **Tools**: Git, Docker, CI/CD, Cloud Platforms
+
+### 💼 What I Do
+
+I design and develop robust software solutions, from interactive web applications to intelligent systems and high-performance backend services. My work spans the full software development lifecycle, with a focus on clean code, best practices, and scalable architecture.
+
+### 📫 Connect
+
+Feel free to reach out for collaborations, discussions, or opportunities.
+
+---
+
+*Building the future, one commit at a time.*
