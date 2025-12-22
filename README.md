@@ -14,11 +14,6 @@ Experienced software engineer specializing in modern web development, artificial
 ### 💼 What I Do
 
 I design and develop robust software solutions, from interactive web applications to intelligent systems and high-performance backend services. My work spans the full software development lifecycle, with a focus on clean code, best practices, and scalable architecture.
-
-### 📫 Connect
-
-Feel free to reach out for collaborations, discussions, or opportunities.
-
 ---
 
 *Building the future, one commit at a time.*
