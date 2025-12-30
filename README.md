@@ -1,24 +1,31 @@
-# Devan Cormick
+# Devan
 
-## Professional Engineer
+## Professional Engineer | Full Stack & AI Developer
 
-Experienced software engineer specializing in modern web development, artificial intelligence, and high-performance systems. Passionate about building scalable solutions across multiple technology stacks.
+Experienced software engineer building scalable web and AI solutions with user-friendly interfaces, efficient data processing, and high-performance backends. Programming is my lifelong passion.
+---
 
 ### 🛠️ Technologies & Expertise
 
-- **Frontend**: React, JavaScript/TypeScript, Modern Web Frameworks
-- **Backend**: Python, Golang, RESTful APIs, Microservices
-- **AI/ML**: Machine Learning, Deep Learning, AI Integration
-- **Tools**: Git, Docker, CI/CD, Cloud Platforms
-
-### 💼 What I Do
-
-I design and develop robust software solutions, from interactive web applications to intelligent systems and high-performance backend services. My work spans the full software development lifecycle, with a focus on clean code, best practices, and scalable architecture.
-
-### 📫 Connect
-
-Feel free to reach out for collaborations, discussions, or opportunities.
+* **Frontend:** React, Next.js, Nuxt.js, Preact, Material UI, Tailwind CSS
+* **Backend:** Node.js, Express.js, NestJS, Python, Django, Golang, Ruby on Rails, RESTful APIs, Microservices, FastAPI, C#/.NET
+* **Cloud & DevOps:** AWS (EC2, ECS, Lambda, RDS, Amplify, Batch, Bedrock), Docker, Kubernetes, CI/CD
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, Neo4j, Firebase Cloud Firestore
+* **AI/ML:** LLMs, LangChain, AutoGPT, OpenAI API, RAG systems, AI Agent Development, Claude Code integration
+* **Programming Languages:** Python, JavaScript, TypeScript, SQL, Golang, C++
+* **Other Tools:** N8N, OpenCV, Cloudflare, NGINX
 
 ---
 
-*Building the future, one commit at a time.*
+### 💼 What I Do
+
+I design and develop **robust software solutions**, from interactive web applications to intelligent AI agents and high-performance backend services. My work spans the **full software development lifecycle**, with a focus on:
+
+* Scalable architecture and clean code
+* AI and machine learning integration for real-world automation
+* High-performance web and cloud systems
+* Async collaboration in remote and distributed teams
+
+---
+
+*Building the future, one commit at a time*
