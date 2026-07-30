@@ -38,17 +38,6 @@ Real-time frontend monitoring dashboard for ML-based anomaly detection, built as
 - Dark/light theme with responsive design
 - **Tech**: React, TypeScript, Recharts, Tailwind CSS
 
-#### Bitzurk (bitzurk.com)
-Crypto exchange and wallet platform, frontend build across a live exchange UI, wallet home screen, and a shared design system reused across four sibling crypto products.
-- Built the exchange trading UI and wallet home screen from Figma through production
-- Designed and implemented the wallet explorer UX flow end-to-end
-- **Tech**: React, TypeScript, Tailwind, Web3, Figma to Code
-
-#### Ardent Learning (ardentlearning.com)
-Frontend build for a corporate L&D agency site, CMS-driven content structure across service, portfolio, and vertical landing pages.
-- Built the automotive vertical landing page end-to-end from design to production
-- Structured service and portfolio sections as CMS-driven content blocks
-- **Tech**: React, Next.js, Tailwind, Sanity CMS
 
 ---
 
@@ -88,7 +77,6 @@ Node.js • FastAPI • PostgreSQL • Supabase • Docker • Vercel • Netlif
 
 I'm always interested in frontend builds, design systems, or AI agent and automation work. If you're building something interesting, let's talk.
 
-**Portfolio**: [devanmccormick.vercel.app](https://devanmccormick.vercel.app/)
 **GitHub**: [GitHub Repositories](https://github.com/devancormick?tab=repositories)
 **Medium**: [@devancormick](https://medium.com/@devancormick)
 
