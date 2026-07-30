@@ -1,84 +1,75 @@
 # Hi, I'm Devan 👋
 
-## Senior Full Stack Engineer | AI Solutions Architect
+## Senior Frontend Developer | UX / UI | AI Agent Engineer
 
-I build production-grade web applications and AI systems that solve real business problems. With expertise spanning frontend development, backend architecture, and AI integration, I specialize in transforming complex requirements into scalable, maintainable solutions.
+I build fast, accessible frontends in React, Next.js, and Tailwind, from CMS-driven marketing sites to crypto and casino product UIs. Alongside that, I design and ship AI agents and automation systems that plug into real workflows.
 
 ### 🎯 What I Do
 
-I design and develop end-to-end software solutions, from interactive web applications to intelligent AI agents and high-performance backend services. My work focuses on:
-
-- **Full Stack Development**: Building responsive, production-ready web applications with React, Next.js, and TypeScript
-- **AI & Machine Learning**: Integrating LLMs and AI agents into real-world applications to automate workflows and extract insights
-- **Data Engineering**: Architecting scalable data pipelines, web scraping systems, and analytics platforms
-- **Cloud Infrastructure**: Deploying secure, HIPAA-compliant systems on AWS with proper DevOps practices
+- **Frontend Development**: Production React and Next.js interfaces, Tailwind design systems, Figma-to-code, motion (Framer Motion, GSAP), light Three.js/WebGL where it earns its keep
+- **UX / UI**: Design systems, typography and spacing discipline, accessibility (WCAG 2.2 AA), responsive-first layouts
+- **CMS & Integration**: Sanity CMS schema design and content modeling, wired straight into the frontend, plus HubSpot/Salesforce/GoHighLevel integration
+- **AI Agents & Automation**: LLM-powered agents, RAG systems, and workflow automation that replace manual, repetitive processes with structured, monitored pipelines
 
 ---
 
 ### 🌐 Portfolio Site
 
-A cinematic, motion-driven personal portfolio built to showcase frontend and full-stack work.
+A cinematic, motion-driven personal portfolio showcasing frontend and AI-agent work.
 - Orbiting skills visualization, animated experience timeline, and embedded live-site previews
 - **Tech**: Angular, TypeScript, Tailwind CSS, Framer Motion / GSAP, Three.js (WebGL accents)
 - **Deploy**: Vercel
+- **Live**: https://devanmccormick.vercel.app/
 
 ---
 
 ### 💼 Featured Projects
 
 #### [Insurance AI Bridge](https://github.com/devancormick/insurance-ai-bridge)
-AI-powered system that transforms unstructured insurance claim notes into structured, actionable data using FastAPI and OpenAI.
+AI agent that transforms unstructured insurance claim notes into structured, actionable data using FastAPI and OpenAI.
 - Reduced case research time from 18 minutes to 2 minutes
 - Cut monthly labor costs by 67% ($40k to $12k)
 - Production deployment with PII masking and validation
 - **Tech**: Python, FastAPI, OpenAI API, PostgreSQL
-- **[Live Demo]([https://devancormick.github.io/anomaly-detection-dashboard/](https://devancormick.github.io/insurance-ai-bridge/visualizations/ai_bridge_dashboard.html))**
+- **[Live Demo](https://devancormick.github.io/insurance-ai-bridge/visualizations/ai_bridge_dashboard.html)**
 
 #### [Anomaly Detection Dashboard](https://github.com/devancormick/anomaly-detection-dashboard)
-Real-time monitoring dashboard for ML-based anomaly detection systems with interactive visualizations.
+Real-time frontend monitoring dashboard for ML-based anomaly detection, built as a React component system.
 - Real-time log streaming with WebSocket integration
 - Interactive charts and data tables with advanced filtering
 - Dark/light theme with responsive design
 - **Tech**: React, TypeScript, Recharts, Tailwind CSS
 
-#### [Stats Aggregation Platform](https://github.com/devancormick/stats-aggregation-platform)
-Automated sports analytics platform that scrapes, processes, and serves match data through a clean REST API.
-- Automated data ingestion with pagination handling
-- FastAPI backend with Swagger documentation
-- SQLite database (scalable to PostgreSQL)
-- **Tech**: Python, FastAPI, SQLite, BeautifulSoup
+#### Bitzurk (bitzurk.com)
+Crypto exchange and wallet platform, frontend build across a live exchange UI, wallet home screen, and a shared design system reused across four sibling crypto products.
+- Built the exchange trading UI and wallet home screen from Figma through production
+- Designed and implemented the wallet explorer UX flow end-to-end
+- **Tech**: React, TypeScript, Tailwind, Web3, Figma to Code
 
-#### [Grocery Price Scraper](https://github.com/devancormick/grocery-price-scraper)
-High-performance web scraping system for retail price monitoring across multiple store locations.
-- Handles 1,000+ parallel API calls with rate limiting
-- Automated weekly runs with Docker and cron
-- Deduplication and data validation
-- **Tech**: Python, aiohttp, pandas, Docker
+#### Ardent Learning (ardentlearning.com)
+Frontend build for a corporate L&D agency site, CMS-driven content structure across service, portfolio, and vertical landing pages.
+- Built the automotive vertical landing page end-to-end from design to production
+- Structured service and portfolio sections as CMS-driven content blocks
+- **Tech**: React, Next.js, Tailwind, Sanity CMS
 
 ---
 
 ### 🛠️ Technical Expertise
 
-**Frontend**  
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Material-UI • shadcn/ui • Recharts
+**Frontend**
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Framer Motion • GSAP • Three.js / WebGL • Figma to Code
 
-**Backend**  
-Node.js • Python • FastAPI • Django • Express.js • RESTful APIs • GraphQL • Microservices
+**UX / UI**
+Design Systems • Typography & Spacing • Accessibility (WCAG 2.2 AA) • Responsive / Mobile-First • Prototyping
 
-**Databases**  
-PostgreSQL • MySQL • MongoDB • Redis • SQLite • DynamoDB • Neo4j
+**CMS & Integration**
+Sanity CMS (schema + content modeling) • HubSpot • Salesforce • GoHighLevel • REST / GraphQL
 
-**AI/ML**  
-OpenAI API • LangChain • Hugging Face • RAG Systems • Claude Code Integration • Prompt Engineering
+**AI Agents & Automation**
+OpenAI API • LangChain • RAG Systems • Claude Code • Prompt Engineering • Workflow Automation • n8n
 
-**Cloud & DevOps**  
-AWS (EC2, S3, RDS, Lambda, CloudFormation) • Docker • Kubernetes • CI/CD • GitHub Actions • Terraform
-
-**Data & Automation**  
-Web Scraping (BeautifulSoup, Selenium, Playwright) • ETL Pipelines • Data Processing • Async/Parallel Execution
-
-**Other Tools**  
-Git • NGINX • Cloudflare • Stripe API • OAuth • JWT • WebSockets
+**Supporting Stack**
+Node.js • FastAPI • PostgreSQL • Supabase • Docker • Vercel • Netlify • Cloudflare • Git
 
 ---
 
@@ -97,10 +88,11 @@ Git • NGINX • Cloudflare • Stripe API • OAuth • JWT • WebSockets
 
 ### 🤝 Let's Connect
 
-I'm always interested in challenging projects involving full stack development, AI integration, or data engineering. If you're building something interesting, let's talk.
+I'm always interested in frontend builds, design systems, or AI agent and automation work. If you're building something interesting, let's talk.
 
-**Portfolio**: [GitHub Repositories](https://github.com/devancormick?tab=repositories)  
-**Medium**: [@devancormick](https://medium.com/@devancormick)  
+**Portfolio**: [devanmccormick.vercel.app](https://devanmccormick.vercel.app/)
+**GitHub**: [GitHub Repositories](https://github.com/devancormick?tab=repositories)
+**Medium**: [@devancormick](https://medium.com/@devancormick)
 
 ---
 
