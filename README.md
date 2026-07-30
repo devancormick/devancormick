@@ -18,8 +18,6 @@ I build fast, accessible frontends in React, Next.js, and Tailwind, from CMS-dri
 A cinematic, motion-driven personal portfolio showcasing frontend and AI-agent work.
 - Orbiting skills visualization, animated experience timeline, and embedded live-site previews
 - **Tech**: Angular, TypeScript, Tailwind CSS, Framer Motion / GSAP, Three.js (WebGL accents)
-- **Deploy**: Vercel
-- **Live**: https://devanmccormick.vercel.app/
 
 ---
 
