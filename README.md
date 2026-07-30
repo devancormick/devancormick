@@ -15,6 +15,15 @@ I design and develop end-to-end software solutions, from interactive web applica
 
 ---
 
+### 🌐 Portfolio Site
+
+A cinematic, motion-driven personal portfolio built to showcase frontend and full-stack work.
+- Orbiting skills visualization, animated experience timeline, and embedded live-site previews
+- **Tech**: Angular, TypeScript, Tailwind CSS, Framer Motion / GSAP, Three.js (WebGL accents)
+- **Deploy**: Vercel
+
+---
+
 ### 💼 Featured Projects
 
 #### [Insurance AI Bridge](https://github.com/devancormick/insurance-ai-bridge)
