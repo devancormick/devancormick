@@ -39,6 +39,14 @@ Real-time frontend monitoring dashboard for ML-based anomaly detection, built as
 - Dark/light theme with responsive design
 - **Tech**: React, TypeScript, Recharts, Tailwind CSS
 
+#### TypeScript Evidence Pipeline (AI / ML Evaluation Task)
+An expert-built evaluation task that stress-tests an agent's ability to extract correct facts from long, contradictory source material and emit byte-exact, verifiable output.
+- Ported a legacy Perl request signer to a typed TypeScript pipeline (HMAC-SHA256 / GW-HMAC-SHA256 scheme)
+- Designed the eval harness: 75k+ tokens of conflicting migration docs where plausible-but-wrong answers fail byte-exact checks across held-out inputs
+- Evidence emitted as newline-delimited JSON with a fixed schema; covers signing, verification, and 4 rejection paths
+- Network-free, deterministic, and verified in an isolated container against inputs the agent never saw
+- **Tech**: TypeScript, Node.js, HMAC-SHA256, syscall analysis (strace / lsof), NDJSON evidence
+
 ---
 
 ### 🛠️ Technical Expertise
