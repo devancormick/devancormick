@@ -1,15 +1,16 @@
 # Hi, I'm Devan 👋
 
-## Senior Frontend Developer | UX / UI | AI Agent Engineer
+## AI / ML Engineer & Evaluator | CUDA / GPU Performance | AWS Cloud Architect
 
-I build fast, accessible frontends in React, Next.js, and Tailwind, from CMS-driven marketing sites to crypto and casino product UIs. Alongside that, I design and ship AI agents and automation systems that plug into real workflows.
+I build high-performance machine learning systems end to end — from training infrastructure and custom CUDA/Triton kernels through to production deployment on AWS. I also work as an ML evaluator, auditing model quality, benchmarks, and agent behavior so teams can ship models they can trust.
 
 ### 🎯 What I Do
 
-- **Frontend Development**: Production React and Next.js interfaces, Tailwind design systems, Figma-to-code, motion (Framer Motion, GSAP), light Three.js/WebGL where it earns its keep
-- **UX / UI**: Design systems, typography and spacing discipline, accessibility (WCAG 2.2 AA), responsive-first layouts
-- **CMS & Integration**: Sanity CMS schema design and content modeling, wired straight into the frontend, plus HubSpot/Salesforce/GoHighLevel integration
-- **AI Agents & Automation**: LLM-powered agents, RAG systems, and workflow automation that replace manual, repetitive processes with structured, monitored pipelines
+- **AI / ML Engineering**: Model training and fine-tuning, inference optimization, RAG systems, and LLM-powered agents that plug into real workflows
+- **ML Evaluation**: Model and benchmark evaluation, dataset quality review, prompt/agent behavior auditing, and red-teaming for safety and accuracy
+- **GPU & CUDA Performance**: Custom CUDA kernels, Triton fused kernels, TensorRT deployment, and NCCL multi-GPU scaling tuned with Nsight profiling
+- **High-Performance Computing**: Parallel computing, kernel-level optimization, and throughput/latency tuning for training and inference
+- **AWS Cloud Architecture**: Scalable ML infrastructure on AWS — SageMaker, EC2 GPU fleets, S3 data lakes, EKS, and cost-optimized training/inference pipelines
 
 ---
 
@@ -38,25 +39,24 @@ Real-time frontend monitoring dashboard for ML-based anomaly detection, built as
 - Dark/light theme with responsive design
 - **Tech**: React, TypeScript, Recharts, Tailwind CSS
 
-
 ---
 
 ### 🛠️ Technical Expertise
 
-**Frontend**
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Framer Motion • GSAP • Three.js / WebGL • Figma to Code
+**AI / ML**
+Python • PyTorch • Model Training & Fine-Tuning • RAG Systems • LLM Agents • Prompt Engineering • ML Evaluation & Benchmarking
 
-**UX / UI**
-Design Systems • Typography & Spacing • Accessibility (WCAG 2.2 AA) • Responsive / Mobile-First • Prototyping
+**CUDA / GPU Performance**
+CUDA Kernel Development • Triton • TensorRT • NCCL • Nsight (Compute / Systems) • GPU Performance Optimization • Kernel Fusion & Quantization
 
-**CMS & Integration**
-Sanity CMS (schema + content modeling) • HubSpot • Salesforce • GoHighLevel • REST / GraphQL
+**High-Performance & Parallel Computing**
+High-Performance Computing (HPC) • Parallel Computing • Multi-GPU Scaling • Distributed Training • Throughput & Latency Tuning
 
-**AI Agents & Automation**
-OpenAI API • LangChain • RAG Systems • Claude Code • Prompt Engineering • Workflow Automation • n8n
+**AWS Cloud Architecture**
+AWS • SageMaker • EC2 GPU Fleets • S3 Data Lakes • EKS / Kubernetes • Lambda • CloudFormation / Terraform • MLOps Pipelines
 
 **Supporting Stack**
-Node.js • FastAPI • PostgreSQL • Supabase • Docker • Vercel • Netlify • Cloudflare • Git
+FastAPI • PostgreSQL • Supabase • Docker • Kubernetes • n8n • Git • CI/CD
 
 ---
 
@@ -75,7 +75,7 @@ Node.js • FastAPI • PostgreSQL • Supabase • Docker • Vercel • Netlif
 
 ### 🤝 Let's Connect
 
-I'm always interested in frontend builds, design systems, or AI agent and automation work. If you're building something interesting, let's talk.
+I'm always interested in AI/ML engineering, model evaluation, GPU performance work, or AWS ML infrastructure. If you're building something interesting, let's talk.
 
 **GitHub**: [GitHub Repositories](https://github.com/devancormick?tab=repositories)
 **Medium**: [@devancormick](https://medium.com/@devancormick)
